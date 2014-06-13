@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocations>
+<!-- Sin clase -->
+	<vocation id="0" 
+		  name="None" 
+		  description="none" 
+		  needpremium="0" 
+	   	  gaincap="5" 
+		  gainhp="5" 
+		  gainmana="5" 
+		  gainhpticks="6" 
+		  gainhpamount="1" 
+		  gainmanaticks="6" 
+		  gainmanaamount="1" 	
+		  manamultiplier="4.0" 
+		  attackspeed="2000" 
+	   	  soulmax="100" 
+		  gainsoulticks="120" 
+		  fromvoc="0" 
+		  attackable="no">
+	
+	<formula  meleeDamage="1.0" 
+		  distDamage="1.0" 
+		  wandDamage="1.0" 
+		  magDamage="1.0" 
+		  magHealingDamage="1.0" 
+		  defense="1.0" 
+		  magDefense="1.0" 
+	  	  armor="1.0"/>
+		
+	<skill    fist="1.5" 
+		  club="2.0" 
+		  sword="2.0" 
+		  axe="2.0" 
+		  distance="2.0" 
+		  shielding="1.5" 
+		  fishing="1.1" 
+		  experience="1.0"/>
+	</vocation>
+
+<!-- Guerrero -->
+	<vocation id="1"
+                  name="Guerrero" 
+                  description="un humano" 
+                  needpremium="1" 
+                  gaincap="25" 
+                  gainhp="15" 
+                  gainmana="5" 
+                  gainhpticks="2" 
+                  gainhpamount="10" 
+                  gainmanaticks="4" 
+                  gainmanaamount="10" 
+                  manamultiplier="3.0" 
+                  attackspeed="2000" 
+                  soulmax="200" 
+                  gainsoulticks="15" 
+                  fromvoc="0" 
+                  lessloss="30">
+
+	<formula  meleeDamage="1.0" 
+                  distDamage="1.0" 
+                  wandDamage="1.0" 
+                  magDamage="1.0" 
+                  magHealingDamage="1.0" 
+                  defense="1.0" 
+                  magDefense="1.0" armor="1.0"/>
+	
+	<skill    fist="1.1" 
+                  club="1.1" 
+                  sword="1.1" 
+                  axe="1.1" 
+                  distance="1.4" 
+                  shielding="1.1" 
+                  fishing="1.1" 
+                  experience="1.0"/>
+	</vocation>
+
+<!-- Paladin -->
+	<vocation id="2"
+                  name="Paladin" 
+                  description="un humano" 
+                  needpremium="1" 
+                  gaincap="25" 
+                  gainhp="15" 
+                  gainmana="5" 
+                  gainhpticks="2" 
+                  gainhpamount="10" 
+                  gainmanaticks="4" 
+                  gainmanaamount="10" 
+                  manamultiplier="3.0" 
+                  attackspeed="2000" 
+                  soulmax="200" 
+                  gainsoulticks="15" 
+                  fromvoc="0" 
+                  lessloss="30">
+
+	<formula  meleeDamage="1.0" 
+                  distDamage="1.0" 
+                  wandDamage="1.0" 
+                  magDamage="1.0" 
+                  magHealingDamage="1.0" 
+                  defense="1.0" 
+                  magDefense="1.0" armor="1.0"/>
+	
+	<skill    fist="1.1" 
+                  club="1.1" 
+                  sword="1.1" 
+                  axe="1.1" 
+                  distance="1.4" 
+                  shielding="1.1" 
+                  fishing="1.1" 
+                  experience="1.0"/>
+	</vocation>
+
+<!-- Cazador -->
+	<vocation id="3" 
+		  name="Cazador" 
+		  description="un humano"
+		  needpremium="1" 
+		  gaincap="20" 
+		  gainhp="10" 
+		  gainmana="15" 
+		  gainhpticks="3"
+		  gainhpamount="10" 
+		  gainmanaticks="3" 
+		  gainmanaamount="10" 
+		  manamultiplier="1.4" 
+		  attackspeed="2000" 
+		  soulmax="200" 
+		  gainsoulticks="15" 
+  		  fromvoc="0" 
+		  lessloss="30">
+	
+	<formula  meleeDamage="1.0" 
+		  distDamage="1.0" 
+		  wandDamage="1.0" 
+		  agDamage="1.0" 
+		  magHealingDamage="1.0" 
+ 		  defense="1.0" 
+	 	  magDefense="1.0" 
+		  armor="1.0"/>
+
+	<skill    fist="1.2" 
+		  club="1.2" 
+		  sword="1.2" 
+		  axe="1.2" 
+		  distance="1.1" 
+		  shielding="1.1" 
+		  fishing="1.1" 
+		  experience="1.0"/>
+	</vocation>
+
+<!-- Picaro -->
+	<vocation id="4" 
+		  name="Picaro" 
+		  description="un humano"
+		  needpremium="1" 
+		  gaincap="20" 
+		  gainhp="10" 
+		  gainmana="15" 
+		  gainhpticks="3"
+		  gainhpamount="10" 
+		  gainmanaticks="3" 
+		  gainmanaamount="10" 
+		  manamultiplier="1.4" 
+		  attackspeed="2000" 
+		  soulmax="200" 
+		  gainsoulticks="15" 
+  		  fromvoc="0" 
+		  lessloss="30">
+	
+	<formula  meleeDamage="1.0" 
+		  distDamage="1.0" 
+		  wandDamage="1.0" 
+		  agDamage="1.0" 
+		  magHealingDamage="1.0" 
+ 		  defense="1.0" 
+	 	  magDefense="1.0" 
+		  armor="1.0"/>
+
+	<skill    fist="1.2" 
+		  club="1.2" 
+		  sword="1.2" 
+		  axe="1.2" 
+		  distance="1.1" 
+		  shielding="1.1" 
+		  fishing="1.1" 
+		  experience="1.0"/>
+	</vocation>
+
+<!-- Sacerdote -->
+	<vocation id="5" 
+  		  name="Sacerdote" 
+		  description="un humano" 
+		  needpremium="1" 
+		  gaincap="10" 
+		  gainhp="5" 
+		  gainmana="30" 
+		  gainhpticks="4" 
+		  gainhpamount="10" 
+		  gainmanaticks="2" 
+		  gainmanaamount="10" 
+		  manamultiplier="1.1" 
+		  attackspeed="2000" 
+		  soulmax="200" 
+		  gainsoulticks="15" 
+		  fromvoc="0" 
+		  lessloss="30">
+
+	<formula  meleeDamage="1.0" 
+		  distDamage="1.0" 
+		  wandDamage="1.0" 
+		  magDamage="1.0" 
+		  magHealingDamage="1.0"
+		  defense="1.0" 
+		  magDefense="1.0" 
+		  armor="1.0"/>
+	
+	<skill    fist="1.5" 
+		  club="1.8" 
+		  sword="1.8" 
+		  axe="1.8" 
+	          distance="1.8" 
+		  shielding="1.5" 
+		  fishing="1.1" 
+	    	  experience="1.0"/>
+	</vocation>
+
+<!-- Gladiador -->
+	<vocation id="6"
+                  name="Gladiador" 
+                  description="un humano" 
+                  needpremium="1" 
+                  gaincap="25" 
+                  gainhp="15" 
+                  gainmana="5" 
+                  gainhpticks="2" 
+                  gainhpamount="10" 
+                  gainmanaticks="4" 
+                  gainmanaamount="10" 
+                  manamultiplier="3.0" 
+                  attackspeed="2000" 
+                  soulmax="200" 
+                  gainsoulticks="15" 
+                  fromvoc="0" 
+                  lessloss="30">
+
+	<formula  meleeDamage="1.0" 
+                  distDamage="1.0" 
+                  wandDamage="1.0" 
+                  magDamage="1.0" 
+                  magHealingDamage="1.0" 
+                  defense="1.0" 
+                  magDefense="1.0" armor="1.0"/>
+	
+	<skill    fist="1.1" 
+                  club="1.1" 
+                  sword="1.1" 
+                  axe="1.1" 
+                  distance="1.4" 
+                  shielding="1.1" 
+                  fishing="1.1" 
+                  experience="1.0"/>
+	</vocation>
+
+<!-- Chaman -->
+	<vocation id="7" 
+  		  name="Chaman" 
+		  description="un humano" 
+		  needpremium="1" 
+		  gaincap="10" 
+		  gainhp="5" 
+		  gainmana="30" 
+		  gainhpticks="4" 
+		  gainhpamount="10" 
+		  gainmanaticks="2" 
+		  gainmanaamount="10" 
+		  manamultiplier="1.1" 
+		  attackspeed="2000" 
+		  soulmax="200" 
+		  gainsoulticks="15" 
+		  fromvoc="0" 
+		  lessloss="30">
+
+	<formula  meleeDamage="1.0" 
+		  distDamage="1.0" 
+		  wandDamage="1.0" 
+		  magDamage="1.0" 
+		  magHealingDamage="1.0"
+		  defense="1.0" 
+		  magDefense="1.0" 
+		  armor="1.0"/>
+	
+	<skill    fist="1.5" 
+		  club="1.8" 
+		  sword="1.8" 
+		  axe="1.8" 
+	          distance="1.8" 
+		  shielding="1.5" 
+		  fishing="1.1" 
+	    	  experience="1.0"/>
+	</vocation>
+
+<!-- Mago -->
+	<vocation id="8" 
+		  name="Mago" 
+		  description="un humano" 
+		  needpremium="1" 
+		  gaincap="10" 
+		  gainhp="5" 
+		  gainmana="30" 
+		  gainhpticks="4" 
+		  gainhpamount="10" 
+		  gainmanaticks="2" 
+		  gainmanaamount="10" 
+		  manamultiplier="1.1" 
+		  attackspeed="2000" 
+	     	  soulmax="200" 
+		  gainsoulticks="15" 
+		  fromvoc="0" 
+		  lessloss="30">
+	
+	<formula  meleeDamage="1.0"  
+		  distDamage="1.0" 
+		  wandDamage="1.0" 
+		  magDamage="1.0" 
+		  magHealingDamage="1.0" 
+		  defense="1.0" 
+		  magDefense="1.0" 
+		  armor="1.0"/>
+		
+	<skill    fist="1.5"
+		  club="2.0" 
+		  sword="2.0" 
+		  axe="2.0" 
+		  distance="2.0" 
+		  shielding="1.5" 
+		  fishing="1.1" 
+		  experience="1.0"/>
+	</vocation>
+
+<!-- Brujo -->
+	<vocation id="9" 
+		  name="Brujo" 
+		  description="un humano" 
+		  needpremium="1" 
+		  gaincap="10" 
+		  gainhp="5" 
+		  gainmana="30" 
+		  gainhpticks="4" 
+		  gainhpamount="10" 
+		  gainmanaticks="2" 
+		  gainmanaamount="10" 
+		  manamultiplier="1.1" 
+		  attackspeed="2000" 
+	     	  soulmax="200" 
+		  gainsoulticks="15" 
+		  fromvoc="0" 
+		  lessloss="30">
+	
+	<formula  meleeDamage="1.0"  
+		  distDamage="1.0" 
+		  wandDamage="1.0" 
+		  magDamage="1.0" 
+		  magHealingDamage="1.0" 
+		  defense="1.0" 
+		  magDefense="1.0" 
+		  armor="1.0"/>
+		
+	<skill    fist="1.5"
+		  club="2.0" 
+		  sword="2.0" 
+		  axe="2.0" 
+		  distance="2.0" 
+		  shielding="1.5" 
+		  fishing="1.1" 
+		  experience="1.0"/>
+	</vocation>
+
+<!-- Druida -->
+	<vocation id="10" 
+  		  name="Druida" 
+		  description="un humano" 
+		  needpremium="1" 
+		  gaincap="10" 
+		  gainhp="5" 
+		  gainmana="30" 
+		  gainhpticks="4" 
+		  gainhpamount="10" 
+		  gainmanaticks="2" 
+		  gainmanaamount="10" 
+		  manamultiplier="1.1" 
+		  attackspeed="2000" 
+		  soulmax="200" 
+		  gainsoulticks="15" 
+		  fromvoc="0" 
+		  lessloss="30">
+
+	<formula  meleeDamage="1.0" 
+		  distDamage="1.0" 
+		  wandDamage="1.0" 
+		  magDamage="1.0" 
+		  magHealingDamage="1.0"
+		  defense="1.0" 
+		  magDefense="1.0" 
+		  armor="1.0"/>
+	
+	<skill    fist="1.5" 
+		  club="1.8" 
+		  sword="1.8" 
+		  axe="1.8" 
+	          distance="1.8" 
+		  shielding="1.5" 
+		  fishing="1.1" 
+	    	  experience="1.0"/>
+	</vocation>
+
+<!-- Monje -->
+	<vocation id="11" 
+  		  name="Monje" 
+		  description="un humano" 
+		  needpremium="1" 
+		  gaincap="10" 
+		  gainhp="5" 
+		  gainmana="30" 
+		  gainhpticks="4" 
+		  gainhpamount="10" 
+		  gainmanaticks="2" 
+		  gainmanaamount="10" 
+		  manamultiplier="1.1" 
+		  attackspeed="2000" 
+		  soulmax="200" 
+		  gainsoulticks="15" 
+		  fromvoc="0" 
+		  lessloss="30">
+
+	<formula  meleeDamage="1.0" 
+		  distDamage="1.0" 
+		  wandDamage="1.0" 
+		  magDamage="1.0" 
+		  magHealingDamage="1.0"
+		  defense="1.0" 
+		  magDefense="1.0" 
+		  armor="1.0"/>
+	
+	<skill    fist="1.5" 
+		  club="1.8" 
+		  sword="1.8" 
+		  axe="1.8" 
+	          distance="1.8" 
+		  shielding="1.5" 
+		  fishing="1.1" 
+	    	  experience="1.0"/>
+	</vocation>
+
+<!-- Caballero -->
+	<vocation id="12"
+                  name="Caballero" 
+                  description="un humano" 
+                  needpremium="1" 
+                  gaincap="25" 
+                  gainhp="15" 
+                  gainmana="5" 
+                  gainhpticks="2" 
+                  gainhpamount="10" 
+                  gainmanaticks="4" 
+                  gainmanaamount="10" 
+                  manamultiplier="3.0" 
+                  attackspeed="2000" 
+                  soulmax="200" 
+                  gainsoulticks="15" 
+                  fromvoc="0" 
+                  lessloss="30">
+
+	<formula  meleeDamage="1.0" 
+                  distDamage="1.0" 
+                  wandDamage="1.0" 
+                  magDamage="1.0" 
+                  magHealingDamage="1.0" 
+                  defense="1.0" 
+                  magDefense="1.0" armor="1.0"/>
+	
+	<skill    fist="1.1" 
+                  club="1.1" 
+                  sword="1.1" 
+                  axe="1.1" 
+                  distance="1.4" 
+                  shielding="1.1" 
+                  fishing="1.1" 
+                  experience="1.0"/>
+	</vocation>
+
+<!-- Nigromante -->
+	<vocation id="13" 
+		  name="Nigromante" 
+		  description="un humano" 
+		  needpremium="1" 
+		  gaincap="10" 
+		  gainhp="5" 
+		  gainmana="30" 
+		  gainhpticks="4" 
+		  gainhpamount="10" 
+		  gainmanaticks="2" 
+		  gainmanaamount="10" 
+		  manamultiplier="1.1" 
+		  attackspeed="2000" 
+	     	  soulmax="200" 
+		  gainsoulticks="15" 
+		  fromvoc="0" 
+		  lessloss="30">
+	
+	<formula  meleeDamage="1.0"  
+		  distDamage="1.0" 
+		  wandDamage="1.0" 
+		  magDamage="1.0" 
+		  magHealingDamage="1.0" 
+		  defense="1.0" 
+		  magDefense="1.0" 
+		  armor="1.0"/>
+		
+	<skill    fist="1.5"
+		  club="2.0" 
+		  sword="2.0" 
+		  axe="2.0" 
+		  distance="2.0" 
+		  shielding="1.5" 
+		  fishing="1.1" 
+		  experience="1.0"/>
+	</vocation>
+
+<!-- Hechicero -->
+	<vocation id="14" 
+		  name="Hechicero" 
+		  description="un humano" 
+		  needpremium="1" 
+		  gaincap="10" 
+		  gainhp="5" 
+		  gainmana="30" 
+		  gainhpticks="4" 
+		  gainhpamount="10" 
+		  gainmanaticks="2" 
+		  gainmanaamount="10" 
+		  manamultiplier="1.1" 
+		  attackspeed="2000" 
+	     	  soulmax="200" 
+		  gainsoulticks="15" 
+		  fromvoc="0" 
+		  lessloss="30">
+	
+	<formula  meleeDamage="1.0"  
+		  distDamage="1.0" 
+		  wandDamage="1.0" 
+		  magDamage="1.0" 
+		  magHealingDamage="1.0" 
+		  defense="1.0" 
+		  magDefense="1.0" 
+		  armor="1.0"/>
+		
+	<skill    fist="1.5"
+		  club="2.0" 
+		  sword="2.0" 
+		  axe="2.0" 
+		  distance="2.0" 
+		  shielding="1.5" 
+		  fishing="1.1" 
+		  experience="1.0"/>
+	</vocation>
+</vocations>
