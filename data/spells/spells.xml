@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spells>
+	<!-- Guerrero -->
+	<!-- Paladin -->
+	<!-- Cazador -->
+	<!-- Picaro -->
+	<!-- Sacerdote -->
+	<!-- Gladiador -->
+	<!-- Chaman -->
+	<!-- Mago -->
+	<!-- Brujo -->
+	<!-- Druida -->
+	<!-- Monje -->
+	<!-- Caballero -->
+	<!-- Nigromante -->
+	<!-- Hechicero -->
+	
+	
 	<!-- Attack Runes -->
 	<rune name="Poison Field" id="2285" allowfaruse="1" charges="3" lvl="14" maglv="0" exhaustion="2000" blocktype="solid" event="script" value="attack/poison field.lua"/>
 	<rune name="Poison Bomb" id="2286" allowfaruse="1" charges="2" lvl="25" maglv="4" exhaustion="2000" blocktype="solid" event="script" value="attack/poison bomb.lua"/>
