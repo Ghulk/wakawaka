@@ -1,6 +1,6 @@
 # Server 0.0.1
 
-* 
+* Clases: Regeneracion de vida y mana definida en 2 para todos.
 * Clases: Capacidad definida.
 * Clases: Vida y mana definida.
 
