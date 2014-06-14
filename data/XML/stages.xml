@@ -22,5 +22,5 @@
 		<stage minlevel="91" maxlevel="95" multiplier="6"/>
 		<stage minlevel="96" maxlevel="100" multiplier="4"/>
 		<stage minlevel="101" multiplier="2"/>
-	</world>
+	</world> 
 </stages>
